@@ -18,6 +18,7 @@ Frequently Used
 | …(⊙_⊙;)…      | WTF           | (0_0 )?       | What?         |
 | o_O???        | What!!!???    | o(∩_∩)o...    | Hah...        |
 
+
 Animals
 -------
 | Emoji         |     Meaning   |
@@ -29,3 +30,13 @@ Animals
 | (。。)～      | Todpole       |
 | /(*ω*)\       | Rabbit        |
 | (:≡           |Jellyfish      |
+| ^(00)^        | Pig           |
+| (・(ｪ)・)     | Bear          |
+
+Others
+-------
+| Emoji         |     Meaning   |
+| ------------- |:-------------:|
+| (っ´▽`)っ     | Hug           |
+| ヾ(*´∀`*)ノ   | Exult         |
+| ( $ _ $ )     | Money         |
