@@ -17,3 +17,15 @@ Frequently Used
 | =^_^=         | Smile         | *^0^*         | Laugh         |
 | …(⊙_⊙;)…      | WTF           | (0_0 )?       | What?         |
 | o_O???        | What!!!???    | o(∩_∩)o...    | Hah...        |
+
+Animals
+-------
+| Emoji         |     Meaning   |
+| ------------- |:-------------:|
+| (=^ ^=)       | Cat           |
+| ≡[。。]≡      | Crab          |
+| <□:≡          | Cuttlefish    |
+| (:◎)≡         | Octopus       |
+| (。。)～      | Todpole       |
+| /(*ω*)\       | Rabbit        |
+| (:≡           |Jellyfish      |
