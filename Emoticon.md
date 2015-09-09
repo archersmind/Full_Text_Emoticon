@@ -41,8 +41,8 @@ Others
 | ヾ(*´∀`*)ノ   | Exult         |
 | ( $ _ $ )     | Money         |
 
-Those are Really
------------------
+Those are Really Cool
+--------------------
 | Emoji         |     Meaning   |
 | ------------- |:-------------:|
 | ¯\\_(ツ)_/¯   | smugshrug     |
