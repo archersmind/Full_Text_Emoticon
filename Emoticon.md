@@ -46,4 +46,4 @@ Those are Really
 | Emoji         |     Meaning   |
 | ------------- |:-------------:|
 | ¯\\_(ツ)_/¯   | smugshrug     |
-
+|ヽ(ಠ_ಠ)ノ      | Not Cool      |
