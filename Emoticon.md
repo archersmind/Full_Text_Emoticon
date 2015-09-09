@@ -40,3 +40,10 @@ Others
 | (っ´▽`)っ     | Hug           |
 | ヾ(*´∀`*)ノ   | Exult         |
 | ( $ _ $ )     | Money         |
+
+Those are Really
+-----------------
+| Emoji         |     Meaning   |
+| ------------- |:-------------:|
+| ¯\\_(ツ)_/¯   | smugshrug     |
+
